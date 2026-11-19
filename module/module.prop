@@ -1,0 +1,6 @@
+id=mishare_hdr_fix
+name=妙享桌面 HDR 闪退修复
+version=1.0
+versionCode=1
+author=WorkBuddy
+description=修复 Root 环境下妙享桌面投屏因 HDR10 编码参数被编码器拒绝而闪退。将 HEVC HDR10 编码开关置为 false 回退 SDR，重启即生效，卸载自动复原。
